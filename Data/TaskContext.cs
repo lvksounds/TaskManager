@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 using System.Security.Cryptography.X509Certificates;
+using TaskManaerAPI.Models;
 
 namespace TaskManaerAPI.Data
 {
@@ -8,12 +9,12 @@ namespace TaskManaerAPI.Data
     {
         private readonly IMongoDatabase _database;
 
-        public TaskContext(IConfiguration configuration)
+        public TaskContext(IOptions<MongoDbSettings> mongoDbSettings)
         {
-            var client = new MongoClient(configuration.GetConnectionString("MongoDB"));
-            _database = client.GetDatabase("TaskManagerDB");
+            var client = new MongoClient(mongoDbSettings.Value.ConnectionString);
+            _database = client.GetDatabase(mongoDbSettings.Value.DatabaseName);
         }
 
-        public IMongoCollection<Task> Tasks => _database.GetCollection<Task>("Tarefas");
+        public IMongoCollection<TaskInfo> Tasks => _database.GetCollection<TaskInfo>("Tasks");
     }
 }

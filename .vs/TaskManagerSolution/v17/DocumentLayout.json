@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\taskmanagerapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:taskmanagerapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\taskmanager\\taskmanagerapi\\models\\taskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8887CC85-32CC-430E-90D5-915C1C85C793}|TaskManaerAPI.csproj|solutionrelative:models\\taskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,29 +38,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Models\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "Models\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Models\\MongoDbSettings.cs",
+              "RelativeToolTip": "Models\\MongoDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:44:33.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T19:29:58.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Services\\TaskService.cs",
+              "RelativeToolTip": "Services\\TaskService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:41:52.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\TaskManagerAPI.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TaskManagerAPI.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\TaskManagerAPI.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TaskManagerAPI.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:39:06.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TaskContext.cs",
               "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Data\\TaskContext.cs",
               "RelativeDocumentMoniker": "Data\\TaskContext.cs",
               "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Data\\TaskContext.cs",
               "RelativeToolTip": "Data\\TaskContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:16:08.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Models\\Task.cs",
-              "RelativeDocumentMoniker": "Models\\Task.cs",
-              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Models\\Task.cs",
-              "RelativeToolTip": "Models\\Task.cs",
+              "DocumentIndex": 6,
+              "Title": "TaskInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Models\\TaskInfo.cs",
+              "RelativeDocumentMoniker": "Models\\TaskInfo.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Models\\TaskInfo.cs",
+              "RelativeToolTip": "Models\\TaskInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T19:13:30.561Z",
@@ -52,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TaskManager\\TaskManagerAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T18:52:40.487Z",
               "EditorCaption": ""
